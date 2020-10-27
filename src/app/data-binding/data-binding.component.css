@@ -1,0 +1,26 @@
+img {
+    max-width: 300px;
+}
+
+select {
+    width: 100px;
+    margin: 0 0 50px 10px;
+}
+
+article {
+    margin: 20px 0 0 20px;
+}
+
+input {
+    margin: 20px 0 20px 0;
+}
+
+footer {
+    margin-bottom: 1000px;
+}
+
+.luz {
+    background-color: rgb(166, 255, 0);
+    color: black;
+    font-weight: 900;
+}
