@@ -10,17 +10,17 @@ export class DataBindingComponent implements OnInit {
   valorAtual: string;
   valorSalvo: string;
   urlImagem = 'http://lorempixel.com/400/200/sports';
-  isMouseOver: boolean = false;
-  nome: string = 'nome qualquer';
+  isMouseOver = false;
+  nome = 'nome qualquer';
 
-  nomeCurso: string = 'Angular';
-  valorInicial: number = 20;
+  nomeCurso = 'Angular';
+  valorInicial = 20;
 
-  getValor() {
+  getValor(): number {
     return 1;
   }
 
-  DoILikeAngular() {
+  DoILikeAngular():boolean {
     return true;
   }
 

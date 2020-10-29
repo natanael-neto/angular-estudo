@@ -1,0 +1,14 @@
+.estrela {
+    height: 100px;
+    width: 100px;
+}
+
+.blu {
+    background-color: aqua;
+}
+
+button {
+    margin-top: 50px;
+    width: 100px;
+    height: 40px;
+}

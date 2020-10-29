@@ -7,7 +7,7 @@ export class CursosService {
 
   constructor() { }
 
-  getCursos(){
+  getCursos(): string[] {
     return ['Java', 'PHP', 'Angular', 'Python'];
   }
 }
